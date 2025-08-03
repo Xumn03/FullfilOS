@@ -1,4 +1,4 @@
-# FulfillOS 22
+# FulfillOS 22 Lemon Pepper LTS
 
 Hey, loyal user! Welcome to the newest version of FulfillOS! The 22 Edition was made since 2022 and it has updates until this day!
 
@@ -6,5 +6,6 @@ Hey, loyal user! Welcome to the newest version of FulfillOS! The 22 Edition was 
 If you have an older version of FulfillOS, like Fulfill  19.4 Refined Sugar  LTS, we recommend you to upgrade to the latest version. Please see which devices are compatible:
 | Requirements | Minimum | Recommended |
 | -------- | ----- | ----------- |
-| A        | 1     | Inteiro     |
-| B        | 2     |             |
+| Minimum Storage      | 2GB   | 4GB    |
+| RAM       | 500MB  |  2GB           |
+| CPU    | Intel Core i8 | Snapdragon 710 |

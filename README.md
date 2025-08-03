@@ -4,3 +4,7 @@ Hey, loyal user! Welcome to the newest version of FulfillOS! The 22 Edition was 
 
 ## Wha happens now?
 If you have an older version of FulfillOS, like Fulfill  19.4 Refined Sugar  LTS, we recommend you to upgrade to the latest version. Please see which devices are compatible:
+| Requirements | Minimum | Recommended |
+| -------- | ----- | ----------- |
+| A        | 1     | Inteiro     |
+| B        | 2     |             |
